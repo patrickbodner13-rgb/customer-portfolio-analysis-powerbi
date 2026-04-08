@@ -29,5 +29,6 @@ The dashboard provides a structured view of customer value, risk, and activity, 
 
 ## Files
 
-* Power BI dashboard (.pbix)
+* Power BI dashboard (.pbix) - Link: https://app.powerbi.com/groups/me/reports/e0d67442-9e66-4c36-b887-7ed851d8d6c9/b8bf9a99270311f2f653?experience=power-bi
+  
 * Dashboard preview image
